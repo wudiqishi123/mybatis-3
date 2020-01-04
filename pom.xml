@@ -24,6 +24,7 @@
     <artifactId>mybatis-parent</artifactId>
     <version>31</version>
     <relativePath />
+
   </parent>
 
   <artifactId>mybatis</artifactId>
